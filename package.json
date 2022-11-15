@@ -1,0 +1,16 @@
+{
+  "name": "extract-from-supabase",
+  "version": "1.0.0",
+  "description": "Export all user emails from userbase to a single CSV file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Carles Andres",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^6.1.0"
+  }
+}
